@@ -1,5 +1,5 @@
 import React from "react";
-import useDashboardModel from "./useDashboardModel";
+import useDashboardModel from "./useDashboard.model";
 import SectionListUser from "@/view/Dashboard/organism/SectionListUser";
 
 const Dashboard = () => {
